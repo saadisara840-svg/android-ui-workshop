@@ -36,7 +36,7 @@
 ![Calculatrice](screenshots/calculatrice.png)
 
 ### Profil Utilisateur
-![Profil](screenshots/profil.png)
+![Profil](screenshots/profile.png)
 
 ### Application de Contact
 ![Contact](screenshots/contact.png)
