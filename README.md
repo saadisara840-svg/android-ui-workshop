@@ -42,23 +42,3 @@
 ![Contact](screenshots/contact.png)
 
 ---
-
-## 📚 Ce que j’ai appris
-- Comprendre la différence entre **LinearLayout** et **ConstraintLayout**
-- Utiliser les **contraintes** pour créer des interfaces responsives
-- Manipuler les **vues Android** avec `findViewById()`
-- Gérer les événements avec `setOnClickListener()`
-- Créer une **application Android complète** avec validation et feedback utilisateur
-- Publier un projet sur **GitHub**
-
----
-
-## 💡 Difficultés rencontrées
-- Comprendre le positionnement des éléments avec **ConstraintLayout**  
-  → Résolu grâce au **Layout Editor** et à l’ajout de contraintes Top/Bottom/Start/End
-- Erreurs “Unresolved reference” lors du binding  
-  → Résolu en vérifiant les **ID XML** et en reconstruisant le projet
-- Problèmes de validation de formulaire  
-  → Corrigé en ajoutant des vérifications `.isEmpty()` et des **Toast**
-
----
